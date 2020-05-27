@@ -1,0 +1,25 @@
+body{
+    background: #bdc646;
+}
+h1{
+    color: hotpink;
+}
+h2{
+    color: khaki;
+}
+label{
+    text-transform: uppercase;
+}
+
+.hello{
+    background-color: grey;
+}
+#special {
+    border: 10px orange;
+}
+input[type="text"]
+{
+background: green;
+}
+
+
